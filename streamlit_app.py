@@ -1,7 +1,7 @@
 import streamlit as st
 
 # This sets the title of the webpage
-st.title("Partner's Shift Pay Calculator")
+st.title("Elise's Shift Pay Calculator")
 st.write("Enter the hours worked for the week to calculate total pay.")
 
 # 1. Collect the pay rate using a number input box
